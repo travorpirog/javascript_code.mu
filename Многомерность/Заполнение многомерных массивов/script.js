@@ -220,3 +220,89 @@ for (let i = 0; i < 3; i++) {
 console.log(arr);
 
 // Задача 20
+arr = [];
+k = 1;
+for (let i = 0; i < 3; i++) {
+	arr[i] = [];
+	
+	for (let j = 0; j < 3; j++) {
+		arr[i][j] = k;
+		k++;
+	}
+}
+console.log(arr);
+
+// Задача 21
+arr = [];
+k = 1;
+for (let i = 0; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++) {
+		arr[i][j] = k;
+		k++;
+	}
+}
+console.log(arr);
+
+// Задача 22
+arr = [];
+for (let i = 0, k = 1; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++) {
+		arr[i][j] = k++;
+	}
+}
+console.log(arr);
+
+// Задача 23
+arr = [];
+for (let i = 0, k = 1; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++, k++) {
+		arr[i][j] = k;
+	}
+}
+console.log(arr);
+
+// Задача 24
+arr = [];
+for (let i = 0, k = 1; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++, k++) {
+		arr[i][j] = k;
+	}
+}
+console.log(arr);
+
+// Задача 25
+arr = [];
+for (let i = 0, k = 0; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++) {
+		arr[i][j] = ++k;
+	}
+}
+console.log(arr);
+
+// Задача 26
+arr = [];
+k = 1;
+for (let i = 0; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++) {
+		arr[i][j] = k;
+		k++;
+	}
+}
+console.log(arr);
+
+
+// Задача 27
+arr = [];
+for (let i = 0, k = 1; i < 3; i++) {
+	arr[i] = [];	
+	for (let j = 0; j < 3; j++, k++) {
+		arr[i][j] = k;
+	}
+}
+console.log(arr);
