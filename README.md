@@ -5,8 +5,8 @@
 
 Решенные темы:
 1. [Основы](https://github.com/traverpirog/javascript_code.mu/tree/master/Основы),  
-2. Коллекции,  
-3. Условия,  
-4. Циклы  
+2. [Коллекции](https://github.com/traverpirog/javascript_code.mu/tree/master/Коллекции),  
+3. [Условия](https://github.com/traverpirog/javascript_code.mu/tree/master/Условия),  
+4. [Циклы](https://github.com/traverpirog/javascript_code.mu/tree/master/Циклы)  
 
 Ссылка на сам учебник - http://code.mu/ru/javascript/book/prime/
