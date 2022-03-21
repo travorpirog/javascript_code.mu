@@ -8,7 +8,7 @@
 2. [Коллекции](https://github.com/traverpirog/javascript_code.mu/tree/master/Коллекции),  
 3. [Условия](https://github.com/traverpirog/javascript_code.mu/tree/master/Условия),  
 4. [Циклы](https://github.com/traverpirog/javascript_code.mu/tree/master/Циклы),  
-5. [Многомерность](https://github.com/traverpirog/javascript_code.mu/tree/master/Многомерность)
+5. [Многомерность](https://github.com/traverpirog/javascript_code.mu/tree/master/Многомерность),
 6. [Стандартные методы](https://github.com/traverpirog/javascript_code.mu/tree/master/Стандартные%20методы)
 
 Ссылка на сам учебник - http://code.mu/ru/javascript/book/prime/
